@@ -57,15 +57,15 @@ YOLOv8 • ResNet50 • Mask R-CNN
 
 ## 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-SETHU_MADHAVAN_P-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-SETHU_MADHAVAN_P-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SETHU_MADHAVAN_P/)
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-sethu_505-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-sethu_505-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sethu_505)
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-SETHU_MADHAVAN_P-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-SETHU_MADHAVAN_P-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SETHU_MADHAVAN_P)
 
-[![AtCoder](https://img.shields.io/badge/AtCoder-SETHUMADHAVAN-black?style=for-the-badge)](https://atcoder.jp/)
+[![AtCoder](https://img.shields.io/badge/AtCoder-SETHUMADHAVAN-black?style=for-the-badge)](https://atcoder.jp/users/SETHUMADHAVAN)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-sm6579164-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-sm6579164-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sm6579164)
 
 ---
 
@@ -77,8 +77,9 @@ YOLOv8 • ResNet50 • Mask R-CNN
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sethumadhavan505)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethu-madhavan-p-7259a132a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sethumadhavan505)
+
 ---
 
 <div align="center">
