@@ -55,11 +55,17 @@ YOLOv8 • ResNet50 • Mask R-CNN
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Coding Profiles
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sethumadhavan505&show_icons=true&theme=tokyonight)
+[![LeetCode](https://img.shields.io/badge/LeetCode-SETHU_MADHAVAN_P-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sethumadhavan505&layout=compact&theme=tokyonight)
+[![CodeChef](https://img.shields.io/badge/CodeChef-sethu_505-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-SETHU_MADHAVAN_P-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/)
+
+[![AtCoder](https://img.shields.io/badge/AtCoder-SETHUMADHAVAN-black?style=for-the-badge)](https://atcoder.jp/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-sm6579164-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/)
 
 ---
 
