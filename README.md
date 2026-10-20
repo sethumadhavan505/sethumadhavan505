@@ -73,7 +73,6 @@ YOLOv8 • ResNet50 • Mask R-CNN
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sethumadhavan505&theme=tokyonight)
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sethumadhavan505&theme=github-dark-blue" height="180" alt="GitHub Streak" />
 </div>
