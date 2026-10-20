@@ -1,64 +1,30 @@
-
-<h1 align="center">👋 Hi, I'm Sethu Madhavan P</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1500&color=00C2FF&center=true&vCenter=true&width=950&height=120&lines=Welcome+to+my+GitHub+Profile!;I'm+proud+to+be+a+Microsoft+Student+Ambassador.;I'm+an+IT+Undergraduate+passionate+about+AI%2FML.;I+enjoy+building+projects+and+solving+problems.;I'm+always+learning+and+contributing+to+Open+Source!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Problem Solver
-</p>
-
----
-
-## 🌟 About Me
-
-- 🎓 I'm pursuing B.Tech in Information Technology.
-- 💙 I'm a Microsoft Student Ambassador.
-- 🤖 I'm passionate about Artificial Intelligence and Machine Learning.
-- 💻 I enjoy developing web applications and building innovative projects.
-- 🧩 I practice problem-solving and competitive programming.
-- 🌱 I'm continuously learning new technologies and contributing to Open Source.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 👋 Hi, I'm Sethu Madhavan P
 
 <div align="center">
-
-### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver | Founder of ODRS TEAM
-
+  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1500&color=00C2FF&center=true&vCenter=true&width=950&height=150&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;I'm+Sethu+Madhavan+P%2C+an+IT+Undergraduate.;I'm+proud+to+be+a+Microsoft+Student+Ambassador.;I'm+passionate+about+AI%2FML+and+Web+Development.;I+love+building+projects+and+contributing+to+Open+Source.;I'm+always+learning%2C+exploring%2C+and+growing!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver | Founder of ODRS TEAM
+
 
 </div>
 
 
 ## 🌟 About Me
 
-🎓 B.Tech Information Technology
+🎓 I'm pursuing B.Tech in Information Technology.
 
-💻 Passionate about Web Development & AI
+💙 I'm a Microsoft Student Ambassador.
 
-🚀 Building innovative projects
+🤖 I'm passionate about Artificial Intelligence and Machine Learning.
+ 
+💻 I enjoy developing web applications and building innovative projects.
 
-📚 Continuously learning new technologies
+🧩 I practice problem-solving and competitive programming.
 
-🏆 Problem Solving & Competitive Programming
-
+🌱 I'm continuously learning new technologies and contributing to Open Source.
 
 ## 🛠️ Tech Stack
 
@@ -78,9 +44,6 @@
 
 ### 🌐 ODRS TEAM Website
 One Day • One Revolution • One Solution
-
-### 🤖 RAG ChatBot
-AI-powered chatbot using LangChain & Streamlit
 
 ### 📊 Advertising Sales Prediction
 Machine Learning Regression Project
