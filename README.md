@@ -1,3 +1,39 @@
+
+<h1 align="center">👋 Hi, I'm Sethu Madhavan P</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1500&color=00C2FF&center=true&vCenter=true&width=950&height=120&lines=Welcome+to+my+GitHub+Profile!;I'm+proud+to+be+a+Microsoft+Student+Ambassador.;I'm+an+IT+Undergraduate+passionate+about+AI%2FML.;I+enjoy+building+projects+and+solving+problems.;I'm+always+learning+and+contributing+to+Open+Source!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Problem Solver
+</p>
+
+---
+
+## 🌟 About Me
+
+- 🎓 I'm pursuing B.Tech in Information Technology.
+- 💙 I'm a Microsoft Student Ambassador.
+- 🤖 I'm passionate about Artificial Intelligence and Machine Learning.
+- 💻 I enjoy developing web applications and building innovative projects.
+- 🧩 I practice problem-solving and competitive programming.
+- 🌱 I'm continuously learning new technologies and contributing to Open Source.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 👋 Hi, I'm Sethu Madhavan P
 
 <div align="center">
