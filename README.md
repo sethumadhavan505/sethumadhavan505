@@ -69,7 +69,7 @@ YOLOv8 • ResNet50 • Mask R-CNN
 ![GitHub Streak](https://streak-stats.demolab.com?user=sethumadhavan505&theme=tokyonight)
 
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sethumadhavan505&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
