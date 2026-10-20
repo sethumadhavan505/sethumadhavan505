@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=2000&color=00C2FF&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Sethu+Madhavan+P+%F0%9F%91%8B" alt="Hi, I'm Sethu Madhavan P" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=2000&color=00C2FF&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Sethu+Madhavan+P+%F0%9F%91%8B" alt="Hi, I'm Sethu Madhavan P" />
 
 # 👋 Hi, I'm Sethu Madhavan P 
 
