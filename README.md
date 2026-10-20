@@ -6,8 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1500&color=00C2FF&center=true&vCenter=true&width=950&height=150&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;I'm+Sethu+Madhavan+P%2C+an+IT+Undergraduate.;I'm+proud+to+be+a+Microsoft+Student+Ambassador.;I'm+passionate+about+AI%2FML+and+Web+Development.;I+love+building+projects+and+contributing+to+Open+Source.;I'm+always+learning%2C+exploring%2C+and+growing!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver | Founder of ODRS TEAM
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1500&color=00C2FF&center=true&vCenter=true&width=950&height=120&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;I'm+proud+to+be+a+Microsoft+Student+Ambassador.;I'm+passionate+about+AI%2FML+and+Web+Development.;I+love+building+innovative+projects+and+solving+problems.;I'm+always+learning+and+contributing+to+Open+Source!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 </div>
 
@@ -26,6 +28,7 @@
 
 🌱 I'm continuously learning new technologies and contributing to Open Source.
 
+---
 ## 🛠️ Tech Stack
 
 ### Languages
