@@ -82,6 +82,21 @@ YOLOv8 • ResNet50 • Mask R-CNN
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sethumadhavan505&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sethumadhavan505&show_icons=true&theme=github_dark" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethumadhavan505&layout=compact&theme=github_dark" height="180" alt="Most Used Languages" />
+</div>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sethumadhavan505&theme=github-dark-blue" height="180" alt="GitHub Streak" />
+</div>
+
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethu-madhavan-p-7259a132a/)
