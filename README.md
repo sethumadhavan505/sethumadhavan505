@@ -4,14 +4,9 @@
 
 ### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver | Founder of ODRS TEAM
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Web+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" />
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&height=150&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;I'm+Sethu+Madhavan+P+%F0%9F%9A%80;Microsoft+Student+Ambassador+%F0%9F%92%99;IT+Undergraduate+%7C+AI%2FML+%26+Cloud+Enthusiast;Exploring+Technology+%7C+Building+Projects;Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1500&color=00C2FF&center=true&vCenter=true&width=950&height=150&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;I'm+Sethu+Madhavan+P%2C+an+IT+Undergraduate.;I'm+proud+to+be+a+Microsoft+Student+Ambassador.;I'm+passionate+about+AI%2FML+and+Web+Development.;I+love+building+projects+and+contributing+to+Open+Source.;I'm+always+learning%2C+exploring%2C+and+growing!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
-
 
 </div>
 
