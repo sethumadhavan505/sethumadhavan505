@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## 🌟 About Me
 
@@ -22,7 +21,6 @@
 
 🏆 Problem Solving & Competitive Programming
 
----
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +35,6 @@
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
 ## 🚀 Featured Projects
 
@@ -53,7 +50,6 @@ Machine Learning Regression Project
 ### 🖼️ Image Classification & Object Detection
 YOLOv8 • ResNet50 • Mask R-CNN
 
----
 
 ## 💻 Coding Profiles
 
@@ -67,13 +63,11 @@ YOLOv8 • ResNet50 • Mask R-CNN
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-sm6579164-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sm6579164)
 
----
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sethumadhavan505&theme=tokyonight)
 
----
 
 ### 📈 Contribution Graph
 
@@ -81,15 +75,11 @@ YOLOv8 • ResNet50 • Mask R-CNN
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sethumadhavan505&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
----
-
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethu-madhavan-p-7259a132a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sethumadhavan505)
 
----
 
 <div align="center">
 
