@@ -74,6 +74,17 @@ YOLOv8 • ResNet50 • Mask R-CNN
 </p>
 
 
+## 🏆 Open Source Contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253Asethumadhavan505%2Btype%253Apr%2Bis%253Amerged&query=%24.total_count&label=Total%20Merged%20PRs&style=for-the-badge&color=2ea043&logo=github" alt="Total Merged PRs" />
+</p>
+
+<p align="center">
+  🔀 Contributing to Open Source
+</p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
