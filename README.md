@@ -64,35 +64,19 @@ YOLOv8 • ResNet50 • Mask R-CNN
 
 <p align="center">
   <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asethumadhavan505">
-    <img src="https://img.shields.io/badge/Total_Merged_PRs-View_on_GitHub-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="View Total Merged Pull Requests" />
-  </a>
-</p>
-
-
-## 🏆 Open Source Contributions
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253Asethumadhavan505%2Btype%253Apr%2Bis%253Amerged&query=%24.total_count&label=Total%20Merged%20PRs&style=for-the-badge&color=2ea043&logo=github" alt="Total Merged PRs" />
-</p>
-
-<p align="center">
-  🔀 <b>Contributing to Open Source</b><br/>
-  Building projects, collaborating with developers, and contributing through pull requests.
-</p>
-
-
-## 🏆 Open Source Contributions
-
-<p align="center">
-  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asethumadhavan505">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253Asethumadhavan505%2520type%253Apr%2520is%253Amerged&query=%24.total_count&label=Total%20Merged%20PRs&style=for-the-badge&color=2ea043&logo=github"
-         alt="Total Merged Pull Requests" />
+    <img src="https://img.shields.io/badge/Merged%20PRs-View%20on%20GitHub-2ea043?style=for-the-badge&logo=github&logoColor=white"
+         alt="View Merged Pull Requests" />
   </a>
   <br/><br/>
   <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asethumadhavan505">
     <img src="https://img.shields.io/badge/View-All%20Merged%20PRs-blue?style=for-the-badge&logo=github"
          alt="View All Merged PRs" />
   </a>
+</p>
+
+<p align="center">
+  🔀 <b>Contributing to Open Source</b><br/>
+  Building projects, collaborating with developers, and contributing through pull requests.
 </p>
 
 
