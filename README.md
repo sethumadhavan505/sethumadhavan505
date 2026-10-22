@@ -59,6 +59,21 @@ YOLOv8 • ResNet50 • Mask R-CNN
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-sm6579164-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sm6579164)
 
+
+## 🏆 Open Source Contributions
+
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asethumadhavan505">
+    <img src="https://img.shields.io/badge/Total_Merged_PRs-View_on_GitHub-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="View Total Merged Pull Requests" />
+  </a>
+</p>
+
+<p align="center">
+  🔀 <b>Contributing to Open Source</b><br/>
+  Building projects, collaborating with developers, and contributing through pull requests.
+</p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
